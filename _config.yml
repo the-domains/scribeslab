@@ -1,0 +1,14 @@
+layout_spectrum: 0.7065662739332765
+typography_spectrum: 0.49792359163984656
+color:
+  brandStrength: 0.5034992238506675
+  lightness: 0.13854077691212296
+  saturation: 0.9163922998122871
+  rhythmicContrast: 0.40260483091697097
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: Scribes.Lab
